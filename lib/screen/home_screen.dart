@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Text(
               "VĂN HÓA VIỆT NAM",
               style: TextStyle(
-                fontSize: 25,
+                fontSize: 30,
                 fontWeight: FontWeight.bold,
                 color: Colors.black,
               ),
